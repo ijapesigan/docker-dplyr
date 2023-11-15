@@ -6,6 +6,7 @@ set -e
 
 # dplyr database backends
 install2.r --error --skipinstalled -n -1 \
+    dplyr        \
     arrow        \
     dbplyr       \
     DBI          \
