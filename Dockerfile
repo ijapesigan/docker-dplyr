@@ -1,4 +1,4 @@
-FROM ijapesigan/tidyverse
+FROM ijapesigan/tidyverse:main
 
 ADD scripts /usr/src/local/src
 RUN cd /usr/src/local/src     && \
