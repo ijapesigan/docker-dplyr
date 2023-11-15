@@ -9,7 +9,7 @@ Ivan Jacob Agaloos Pesigan
 [![Make
 Project](https://github.com/ijapesigan/docker-dplyr/actions/workflows/make.yml/badge.svg)](https://github.com/ijapesigan/docker-dplyr/actions/workflows/make.yml)
 [![Docker Build and Push
-\[multi\]](https://github.com/ijapesigan/docker-dplyr/actions/workflows/docker-build-push-multi.yml.yml/badge.svg)](https://github.com/ijapesigan/docker-dplyr/actions/workflows/docker-build-push-multi.yml.yml)
+\[multi\]](https://github.com/ijapesigan/docker-dplyr/actions/workflows/docker-build-push-multi.yml/badge.svg)](https://github.com/ijapesigan/docker-dplyr/actions/workflows/docker-build-push-multi.yml)
 [![Docker Build and Push \[multi\]
 (Daily)](https://github.com/ijapesigan/docker-dplyr/actions/workflows/docker-build-push-daily-multi.yml/badge.svg)](https://github.com/ijapesigan/docker-dplyr/actions/workflows/docker-build-push-daily-multi.yml)
 [![Shell
@@ -27,7 +27,7 @@ linux/arm64 architectures.
 To launch `Rstudio Server`, run the following.
 
 ``` bash
-docker run --rm -ti -e PASSWORD=yourpassword -p 127.0.0.1:8787:8787 ijapesigan/dplyr
+docker run --rm -ti -e PASSWORD=yourpassword -p 127.0.0.1:8787:8787 ijapesigan/dplyr:main
 ```
 
 Open `http://localhost:8787` on your web browser to launch
