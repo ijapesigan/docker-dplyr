@@ -6,7 +6,6 @@ RUN cd /usr/src/local/src     && \
     ./setup.sh                && \
     rm -rf /usr/src/local/src
 
-
 # extra metadata
 LABEL org.opencontainers.image.source="https://github.com/ijapesigan/docker-dplyr" \
       org.opencontainers.image.authors="Ivan Jacob Agaloos Pesigan <ijapesigan@gmail.com>"
