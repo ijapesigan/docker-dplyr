@@ -15,3 +15,7 @@ function apt_install() {
 # arrow
 apt_install \
     cmake
+
+# RMariaDB
+apt_install \
+    liblz4-dev
