@@ -18,6 +18,8 @@ install2.r --error --skipinstalled -n -1 \
     RSQLite      \
     fst
 
+# duckdb was omitted as it results in installation error in arm64
+
 # install2.r --error --skipinstalled -n -1 \
 #     dplyr        \
 #     arrow        \
