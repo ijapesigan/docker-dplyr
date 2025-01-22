@@ -11,6 +11,7 @@ install2.r --error --skipinstalled -n -1 \
     dbplyr       \
     DBI          \
     dtplyr       \
+    duckdb       \
     nycflights13 \
     Lahman       \
     RMariaDB     \

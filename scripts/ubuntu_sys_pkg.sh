@@ -12,6 +12,10 @@ function apt_install() {
     fi
 }
 
+# duckdb
+apt_install \
+    xz-utils
+
 # arrow
 apt_install \
     cmake
