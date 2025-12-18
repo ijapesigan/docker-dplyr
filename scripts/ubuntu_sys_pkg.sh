@@ -23,3 +23,7 @@ apt_install \
 # RMariaDB
 apt_install \
     liblz4-dev
+
+# HDF5
+apt_install \
+    libhdf5dev
