@@ -26,4 +26,4 @@ apt_install \
 
 # HDF5
 apt_install \
-    libhdf5dev
+    libhdf5-dev
