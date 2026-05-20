@@ -18,19 +18,3 @@ install2.r --error --skipinstalled -n -1 \
     RPostgres    \
     RSQLite      \
     fst
-
-# duckdb was omitted as it results in installation error in arm64
-
-# install2.r --error --skipinstalled -n -1 \
-#     dplyr        \
-#     arrow        \
-#     dbplyr       \
-#     DBI          \
-#     dtplyr       \
-#     duckdb       \
-#     nycflights13 \
-#     Lahman       \
-#     RMariaDB     \
-#     RPostgres    \
-#     RSQLite      \
-#     fst
