@@ -18,6 +18,19 @@
 
 project <- "docker-dplyr"
 
+type <- "docker"
+
+workflows <- c(
+  "docker-build-push-multi",
+  "docker-build-push-daily-multi"
+)
+
+workflow_daily <- "dplyr"
+
+workflow_title <- "Docker Build and Push Dplyr [multi] (Daily)"
+
+workflow_next <- "ijapesigan/docker-tidymodels"
+
 rproject_ver <- NULL
 
 pkg_cran <- c()
