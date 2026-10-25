@@ -1,0 +1,1 @@
+The data image of the daily chain: built on `ijapesigan/tidyverse`, with dplyr's backends (arrow, duckdb, dbplyr, dtplyr), database drivers (RMariaDB, RPostgres, RSQLite), fst, and rhdf5. Its daily build starts `ijapesigan/tidymodels`.

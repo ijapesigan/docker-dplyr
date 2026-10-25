@@ -1,0 +1,11 @@
+# System packages wanted, one per line (install-apt.sh): tools, and
+# libraries no R package declares. R packages' system libraries are
+# looked up by install-cran.sh.
+
+# tools
+xz-utils
+
+# libraries no CRAN package here declares: lz4, HDF5 for rhdf5
+# (Bioconductor, rhdf5.sh)
+liblz4-dev
+libhdf5-dev
