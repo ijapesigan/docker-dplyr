@@ -6,17 +6,11 @@ scripts/github.txt, or .setup/scripts/project.R instead. -->
 # ijapesigan/dplyr
 
 <!-- badges: start -->
-
-[![Docker Build and Push Dplyr \[multi\]
-(Daily)](https://github.com/ijapesigan/docker-dplyr/actions/workflows/docker-build-push-daily-multi-dplyr.yml/badge.svg)](https://github.com/ijapesigan/docker-dplyr/actions/workflows/docker-build-push-daily-multi-dplyr.yml)
-[![Docker Build and Push
-\[multi\]](https://github.com/ijapesigan/docker-dplyr/actions/workflows/docker-build-push-multi.yml/badge.svg)](https://github.com/ijapesigan/docker-dplyr/actions/workflows/docker-build-push-multi.yml)
-[![Make
-Project](https://github.com/ijapesigan/docker-dplyr/actions/workflows/make.yml/badge.svg)](https://github.com/ijapesigan/docker-dplyr/actions/workflows/make.yml)
-[![Non-ASCII
-Check](https://github.com/ijapesigan/docker-dplyr/actions/workflows/non-ascii-check.yml/badge.svg)](https://github.com/ijapesigan/docker-dplyr/actions/workflows/non-ascii-check.yml)
-[![Shell
-Check](https://github.com/ijapesigan/docker-dplyr/actions/workflows/shellcheck.yml/badge.svg)](https://github.com/ijapesigan/docker-dplyr/actions/workflows/shellcheck.yml)
+[![Make Project](https://github.com/ijapesigan/docker-dplyr/actions/workflows/make.yml/badge.svg)](https://github.com/ijapesigan/docker-dplyr/actions/workflows/make.yml)
+[![Docker Build and Push Dplyr [multi] (Daily)](https://github.com/ijapesigan/docker-dplyr/actions/workflows/docker-build-push-daily-multi-dplyr.yml/badge.svg)](https://github.com/ijapesigan/docker-dplyr/actions/workflows/docker-build-push-daily-multi-dplyr.yml)
+[![Docker Build and Push [multi]](https://github.com/ijapesigan/docker-dplyr/actions/workflows/docker-build-push-multi.yml/badge.svg)](https://github.com/ijapesigan/docker-dplyr/actions/workflows/docker-build-push-multi.yml)
+[![Non-ASCII Check](https://github.com/ijapesigan/docker-dplyr/actions/workflows/non-ascii-check.yml/badge.svg)](https://github.com/ijapesigan/docker-dplyr/actions/workflows/non-ascii-check.yml)
+[![Shell Check](https://github.com/ijapesigan/docker-dplyr/actions/workflows/shellcheck.yml/badge.svg)](https://github.com/ijapesigan/docker-dplyr/actions/workflows/shellcheck.yml)
 <!-- badges: end -->
 
 ## Description
